@@ -1,0 +1,29 @@
+.food-img{
+    height:30%;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.img-center{
+   margin-left:35%;
+   margin-bottom: 30px;
+}
+.btn{
+    text-align: center;
+    height: 45px;
+    width:120px;
+    margin: 40px 40px;
+    font-size: medium;
+    background-color: #ff751a;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.btn:hover{
+    background-color: #00cc00;
+    color: white;
+
+}
