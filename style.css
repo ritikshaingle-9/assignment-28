@@ -29,6 +29,7 @@
     color: white;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
 }
 .btn:hover{
     background-color: #00cc00;
